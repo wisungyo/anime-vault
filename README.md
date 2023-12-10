@@ -1,9 +1,44 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+<h1 align="center">
+  Anime Vault
+</h1>
+<p align="center">
+  Anime vault which shows kinds of anime with its rating and other info, built with <a href="https://www.nextjs.org/" target="_blank">NextJS</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel</a>
+</p>
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+<div align="center">
+  <img alt="Demo" src="https://raw.githubusercontent.com/wisungyo/anime-vault/master/public/demo.jpeg" />
+</div>
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## 🛠 Installation & Set Up
 
+1. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+
+   ```sh
+   nvm install
+   ```
+
+2. Install dependencies
+
+   ```sh
+   yarn
+   ```
+
+3. Start the development server
+
+   ```sh
+   yarn dev
+   ```
+
+## 🚀 Building and Running for Production
+
+1. Generate for production build
+
+   ```sh
+   yarn build
+   ```
+
+1. Preview the site as it will appear once deployed
+
+   ```sh
+   yarn start
+   ```
